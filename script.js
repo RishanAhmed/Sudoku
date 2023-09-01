@@ -1,5 +1,5 @@
 function StartPlaying(){
-    window.location.replace("https://rishanahmed.github.io/Level1.html")
+    window.location.replace("Level1.html")
 }
 function Checklevela()
 {
@@ -14,7 +14,7 @@ function Checklevela()
             if(row3 == "8")
             {
                 alert("You Passed")
-                window.location.replace("https://rishanahmed.github.io/Level2.html")
+                window.location.replace("Level2.html")
             }
             else
             {
@@ -44,7 +44,7 @@ function Checklevelb()
             if(row3 == "4")
             {
                 alert("You Passed")
-                window.location.replace("https://rishanahmed.github.io/You_Won.html")
+                window.location.replace("You_Won.html")
             }
             else
             {
@@ -63,5 +63,5 @@ function Checklevelb()
 }
 function Home()
 {
-    window.location.replace("https://rishanahmed.github.io/index.html")
+    window.location.replace("index.html")
 }
